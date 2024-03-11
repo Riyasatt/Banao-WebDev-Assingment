@@ -1,0 +1,15 @@
+/* Classes Added for toggling Signup button */
+
+.open-signup{
+
+    visibility: visible;
+}
+
+.signup-page{
+    background-color:rgba(1, 1, 1, 0.6);
+
+    visibility: hidden;
+}
+.open-new-acc{
+    visibility: visible;
+}
